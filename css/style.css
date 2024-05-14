@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+header{
+	height: 100px;
+}
+banner{
+	height: 200px;
+}
+.box{
+	height: 150px;
+}
